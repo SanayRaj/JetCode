@@ -1,0 +1,7 @@
+{
+  "name": "JetEditor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

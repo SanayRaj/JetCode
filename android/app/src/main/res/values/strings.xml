@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">JetCode</string>
+    <string name="title_activity_main">JetCode</string>
+    <string name="package_name">com.sanayzz.jetcode</string>
+    <string name="custom_url_scheme">com.sanayzz.jetcode</string>
+</resources>
